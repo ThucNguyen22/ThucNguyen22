@@ -1,4 +1,5 @@
 - 🌱 I’m currently learning Data Analysis
+- 🌱 My goal is becoming a Data Analysis/ Data Scientist
 
 
 <!---
