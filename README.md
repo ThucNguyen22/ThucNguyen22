@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning Data Analysis
+- 🌱 I’m currently learning Data Analysis and Fundamental Machine Learning
 - 🌱 My goal is becoming a Data Analysis/ Data Scientist
 
 
