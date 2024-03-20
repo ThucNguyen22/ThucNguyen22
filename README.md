@@ -1,5 +1,6 @@
 - 🌱 I’m currently learning Data Analysis and Fundamental Machine Learning
 - 🌱 My goal is becoming a Data Analyst/ Data Scientist
+- 🌱 Find more about me https://nguyentrithuc.netlify.app/
 
 
 <!---
